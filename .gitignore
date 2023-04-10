@@ -263,3 +263,5 @@ tags
 /gPhoto2-install/
 /pibooth-taken-photos/
 /reference-img/
+credentials.json
+*token*
